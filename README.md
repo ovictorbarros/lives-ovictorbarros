@@ -22,4 +22,9 @@ Nesse repositório coloco todos os projetos feitos durante as lives no canal do 
    <img alt=“COVID19" title=“Tweets sobre a Vacina" src="https://s3.amazonaws.com/static-wiseup-blog.gazetadopovo.com.br/wp-content/uploads/2020/12/11182125/Pfizer2.jpg" width="600" height="300">
   </a>
 </p>
+
+Nesse repositório apresento o projeto de análise dos Tweets sobre a Vacina da Pfizer, os dados utilizados foram coletados do Kaggle e estão em um formato CSV disponível na pasta dataset. 
+
+<b>DESAFIO</b>
+Analisar o sentimento dos tweets
    
