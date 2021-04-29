@@ -8,4 +8,3 @@
 ## Organização
 -[Introdução](#introdução)
 -[Analisando Tweets sobre a Vacina da COVID-19](https://github.com/ovictorbarros/lives-ovictorbarros/tree/main/Analisando%20Tweets%20sobre%20a%20Vacina%20da%20COVID-19)
--[Ciência de Dados e Machine Learning para Departamento de RH] (https://github.com/ovictorbarros/lives-ovictorbarros/tree/main/Cie%CC%82ncia%20de%20Dados%20e%20Machine%20Learning%20para%20Departamento%20de%20RH/code)
