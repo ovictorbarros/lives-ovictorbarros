@@ -15,3 +15,5 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Nesse repositório coloco todos os projetos feitos durante as lives no canal do YouTube, onde busco explicar sobre Ciência de Dados e Inteligência utilizando a linguagem Python, Google Colab. 
+
+## Analisando Tweets sobre a Vacina da COVID-19
