@@ -8,3 +8,8 @@
 ## Organização
 -[Introdução](#introdução)
 -[Analisando Tweets sobre a Vacina da COVID-19](https://github.com/ovictorbarros/lives-ovictorbarros/tree/main/Analisando%20Tweets%20sobre%20a%20Vacina%20da%20COVID-19)
+
+## Introdução
+![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1n8N2zZf9KLN91AkOflHFO0LpD1svzzEC)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
