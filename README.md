@@ -13,3 +13,5 @@
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1n8N2zZf9KLN91AkOflHFO0LpD1svzzEC)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+Nesse repositório coloco todos os projetos feitos durante as lives no canal do YouTube, onde busco explicar sobre Ciência de Dados e Inteligência utilizando a linguagem Python, Google Colab. 
