@@ -27,4 +27,15 @@ Nesse repositório apresento o projeto de análise dos Tweets sobre a Vacina da 
 
 <b>DESAFIO</b><br><br>
 Analisar o sentimento dos tweets
-   
+
+## Ciência de Dados e Machine Learning para Departamento de RH
+<p align="center">
+ <a href="https://github.com/ovictorbarros/lives-ovictorbarros/tree/main/Cie%CC%82ncia%20de%20Dados%20e%20Machine%20Learning%20para%20Departamento%20de%20RH/code">
+   <img alt=“RH" title=“RH" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMVHeYppyKpwfnEEsY7SN1u6hUj8aBAKptB0gjNLEBtdQNjs2ayj4e3AHQF9twgvMh95w&usqp=CAU" width="600" height="300">
+  </a>
+</p>
+
+Nesse repositório apresento o projeto de Ciência de Dados para departamentos de RH, os dados utilizados foram coletados do Kaggle e estão em um formato CSV disponível na pasta dataset. 
+
+<b>DESAFIO</b><br><br>
+Analisar os funcionários de uma empresa, entendendo a taxa de evasão. 
