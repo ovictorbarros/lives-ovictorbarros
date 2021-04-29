@@ -1,2 +1,1 @@
-# lives-ovictorbarros
-Esse repositório contém todas as lives feitas no canal do YouTube Victor Barros, no qual falo sobre Ciência de Dados e Inteligência Artificial
+<h1 align="center"> Lives do Canal no YouTube do Victor Barros sobre Ciência de Dados e Inteligência Artificial </h1><br>
