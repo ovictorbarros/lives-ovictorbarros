@@ -25,6 +25,6 @@ Nesse repositório coloco todos os projetos feitos durante as lives no canal do 
 
 Nesse repositório apresento o projeto de análise dos Tweets sobre a Vacina da Pfizer, os dados utilizados foram coletados do Kaggle e estão em um formato CSV disponível na pasta dataset. 
 
-<b>DESAFIO</b>
+<b>DESAFIO</b><br>
 Analisar o sentimento dos tweets
    
